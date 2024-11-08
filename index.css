@@ -1,0 +1,164 @@
+*{
+    padding: auto;
+    margin: 0;
+    text-decoration: none;
+    background-color: #1E1E1E;
+}
+
+
+.apresentacao{
+    margin-top: 0%;
+    margin-bottom: 0;
+    height: 450px;
+}
+
+
+.titulo-ap{
+    text-align: justify;
+    margin-top: 0%;
+    margin-bottom: 0;
+    margin-left: 15%;
+}
+
+.texto-ap{
+    text-align: justify;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 30px;
+    color: #B3B3B3;
+}
+
+.img-ap{
+    width: 50px;
+    padding: 50px;
+}
+
+.img-ap:hover{
+    transform: scale(1.10);
+}
+
+.texto-titulo{
+    display: inline-flex;
+    font-size: 25px;
+    color: #E0E0E0;
+}
+
+.icones-titulo{
+    display: inline-flex;
+    margin-left: 15%;
+    padding: auto;
+    color: #E0E0E0;
+}
+
+.titulopj {
+    font-family: "Righteous", cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #fff2e7;
+    margin-left: 10px;
+  }
+  
+  .subtituloex {
+    font-family: "Sarala", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #a7a6a6;
+    margin-left: 15px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+  .pjimgr {
+    height: 300px;
+    margin-top: auto;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 17px;
+    width: 80%;
+    transition: transform 0.5s;
+  }
+  
+  .pjimgl {
+    height: 300px;
+    margin-top: auto;
+    border-radius: 20px;
+    margin-left: 10px;
+    width: 80%;
+    transition: transform 0.5s;
+  }
+  
+  .pjright {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .pjleft {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  
+  .pjimgl:hover {
+    transform: scale(1.05);
+    border-color: #fff;
+  }
+  
+  .pjimgr:hover {
+    transform: scale(1.05);
+    border-color: #fff;
+  }
+
+.texto{
+  height: 1300px;
+}
+
+  .texto3 {
+    font-family: "Sarala", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #B3B3B3;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 40px;
+  }
+
+.projetos{
+    background-color: #1E1E1E;
+}
+
+.item-menu {
+    font-family: "Sarala", sans-serif;
+    color: #fff2e7;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: underline;
+  }
+
+.contatos{
+  background-color: #1b1717;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.linkscont{
+  text-align: justify;
+}
+
+.email{
+  display: inline-flex;
+  margin-left: 30%;
+  margin-right: 25%;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+.tel{
+  display: inline-flex;
+}
+
+.linkcontato{
+  color: #fff;
+  text-decoration: underline;
+}
