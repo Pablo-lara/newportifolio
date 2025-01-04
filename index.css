@@ -109,7 +109,7 @@
   }
 
 .texto{
-  height: 1300px;
+  height: 70%;
 }
 
   .texto3 {
@@ -139,6 +139,7 @@
   color: #fff;
   text-align: center;
   text-decoration: none;
+  margin-top: 30px;
 }
 
 
